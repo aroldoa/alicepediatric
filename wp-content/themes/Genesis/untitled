@@ -1,0 +1,10 @@
+/*
+   Theme Name: Child Genesis
+   Theme URI: http://primomotif.com
+   Description: Child Theme. Parent Genesis
+   Author: Primo Motif
+   Author URI: primomotif.com
+   Template: Genesis
+   Version: 0.1
+*/
+@import url("../genesis/style.css");
